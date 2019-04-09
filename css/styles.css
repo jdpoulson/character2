@@ -1,0 +1,48 @@
+#ben {
+  display: none;
+  color: green;
+  font-size: 12px;
+  padding: 12px;
+  font-family: sans-serif;
+  float: left;
+}
+#amber {
+  display: none;
+  color: pink;
+  font-size: 12px;
+  padding: 12px;
+  font-family: sans-serif;
+  float: left;
+}
+#subzero {
+  display: none;
+  color: skyblue;
+  font-size: 12px;
+  padding: 12px;
+  font-family: sans-serif;
+  float: left;
+}
+#fireball {
+  display: none;
+  color: red;
+  font-size: 12px;
+  padding: 12px;
+  font-family: sans-serif;
+  float: left;
+}
+#buzzsaw {
+  display: none;
+  color: orange;
+  font-size: 12px;
+  padding: 12px;
+  font-family: sans-serif;
+  float: left;
+}
+#dynamo {
+  display: none;
+  color: blue;
+  font-size: 12px;
+  padding: 12px;
+  font-family: sans-serif;
+  float: left;
+}
